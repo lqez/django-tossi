@@ -11,7 +11,7 @@ via pip:
 
     $ pip install django-template-korean
 
-Add the app to your istalled apps:
+and add to your apps
 
     INSTALLED_APPS = (
         ...
