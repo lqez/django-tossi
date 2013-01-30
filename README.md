@@ -19,11 +19,12 @@ Add the app to your istalled apps:
         ...
     )
 
-Usage
------
+Usage in django template
+-----------------
     {% load template_korean %}
-
+    <!-- before: 박현우(은)는 똥(을)를 쌌다. -->
     {{ message|proofread }}
+    <!-- after: 박현우는 똥을 쌌다. -->
         
 Author
 ------
