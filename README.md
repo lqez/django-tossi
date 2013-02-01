@@ -6,7 +6,7 @@ Django template filter for Korean via sublee/korean module.
 
 Notice
 ------
-I wrote better version of this module within sublee/korean, and it had merged into master.
+I wrote better version of this module within sublee/korean, and it had been merged into master.
 So, if you're using latest version of sublee/korean, just use shipped korean.ext.django module. Thanks.
 
 Installation
